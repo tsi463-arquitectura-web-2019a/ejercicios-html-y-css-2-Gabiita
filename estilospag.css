@@ -1,0 +1,30 @@
+.title {  
+		
+		    width: 600px;
+            margin: 0 auto;
+            margin-top: 200px;
+            background-color: #33BEBE;
+			color: #ffffff;
+			font-family: "Arial";
+			padding-top: 10px;
+			padding-left: 15px;
+		}
+.cuerpo {
+            width: 600px;
+            margin:0 auto;        
+} 
+
+.cuerpo img { 
+	     
+	          
+} 
+
+.cuerpo p{ 
+           color: #7C8B88;
+		   font-family: "Arial";
+		   padding-left: 100px; 
+
+
+		   
+
+ }
